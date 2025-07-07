@@ -1,0 +1,6 @@
+Region,Temperature,Rainfall,Food_Risk,Health_Risk,Climate_Score,Latitude,Longitude
+North,35.2,120,High,Medium,0.65,28.6139,77.2090
+South,28.4,200,Medium,Low,0.80,12.9716,77.5946
+East,30.5,150,Low,High,0.55,26.1445,91.7362
+West,33.0,90,High,High,0.40,19.0760,72.8777
+Central,29.0,180,Medium,Medium,0.70,23.2599,77.4126
